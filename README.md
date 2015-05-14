@@ -1,6 +1,6 @@
-# MailChimp API Wrapper
+# MailChimp List API Wrapper
 
-> A simple wrapper around MailChimp's 2.0 API.
+> A simple wrapper around MailChimp's 2.0 List API.
 
 **NOTE** We only really implemented the methods we needed. This isn't a full library around MailChimp's offerings, and others are encourage to submit pull requests to fill in the missing gaps.
 
